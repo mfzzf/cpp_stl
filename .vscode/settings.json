@@ -1,0 +1,17 @@
+{
+    "cmake.sourceDirectory": "/home/fzzf/cpp/stl/intro",
+    "files.associations": {
+        "list": "cpp",
+        "array": "cpp",
+        "forward_list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "memory": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "ostream": "cpp",
+        "initializer_list": "cpp",
+        "queue": "cpp"
+    },
+    "cmake.ignoreCMakeListsMissing": true
+}
